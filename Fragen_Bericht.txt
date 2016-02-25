@@ -1,5 +1,6 @@
 ﻿Fragen zum Bericht
 - Zweiseitig oder einseitig drucken?
+- Dokumentation von PA Schneider/Studer gute Referenz? Note?
 
 - Ausgangslage:
   Welche Aspekte eingehen ? (PA Schneider: bicycle computer).
